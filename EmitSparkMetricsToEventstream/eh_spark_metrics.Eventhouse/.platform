@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Eventhouse",
+    "displayName": "eh_spark_metrics",
+    "description": "eh_spark_metrics"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "204cd41c-0011-ba99-4378-586d76db5673"
+  }
+}

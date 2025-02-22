@@ -1,0 +1,5 @@
+// KQL script
+// Use management commands in this script to configure your database items, such as tables, functions, materialized views, and more.
+
+
+.create-merge table spark_metrics (timestamp:datetime, category:string, fabricLivyId:string, applicationId:string, applicationName:string, executorId:string, fabricTenantId:string, capacityId:string, artifactType:string, artifactId:string, fabricWorkspaceId:string, fabricEnvId:string, executorMin:string, executorMax:string, isHighConcurrencyEnabled:string, properties:dynamic, EventProcessedUtcTime:datetime, PartitionId:long, EventEnqueuedUtcTime:datetime) 

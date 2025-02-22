@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Eventstream",
+    "displayName": "es_spark_logging"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "21ec479c-4c92-ad38-41c6-0d31bfe93300"
+  }
+}
